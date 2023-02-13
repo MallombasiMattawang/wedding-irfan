@@ -40,9 +40,9 @@ const Couples = () => {
               />
               <h1 className="font-shalimar text-5xl text-slate-300">Irfan</h1>
               <h1 className="font-Bree text-2xl text-white text-center">Muhammad Irfan Ibnu, S.Kom</h1>
-              <p className="font-Poppins text-white text-center">
+              {/* <p className="font-Poppins text-white text-center">
                 Putra Ke Dua <br /> Dari Kedua Orang Tuanya
-              </p>
+              </p> */}
               {/* <AiOutlineInstagram size={60} color="white" /> */}
               {/* <small className="font-Bree text-xl text-white">
                 @mpampam
@@ -65,9 +65,9 @@ const Couples = () => {
               />
               <h1 className="font-shalimar text-5xl text-slate-300">Irma</h1>
               <h1 className="font-Bree text-2xl text-white">Irmawati, S.Kom</h1>
-              <p className="font-Poppins text-white text-center">
+              {/* <p className="font-Poppins text-white text-center">
                 Putri Ke Tiga <br /> Dari Kedua Orang Tuanya
-              </p>
+              </p> */}
               {/* <AiOutlineInstagram size={60} color="white" />
               <small className="font-Bree text-xl text-white">
                 @onepieceUta

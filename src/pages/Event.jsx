@@ -57,22 +57,22 @@ const Event = () => {
                text-center"
               >
                 <h2>Bertempat Di</h2>
-                <p>Kediaman Mempelai Wanita, Jl. Poros Makassar - Pare Mandalle Utara Pangkep</p>
+                <p>Jalan. Lanto Dg Pasewang Lr.1/7, Bulukumba (Depan Abbana Cafe)</p>
               </div>
               <div className="flex flex-col items-center justify-center text-center text-black font-Open">
                 <div className="w-20 h-20 bg-primary rounded-full flex items-center justify-center">
                   <RiCalendarEventLine color="white" size={40} />
                 </div>
                 <p>
-                  12.00 WITA <br /> s/d Selesai
+                  Sabtu<br /> 04 Maret 2023
                 </p>
               </div>
-              {/* <div className="flex flex-col items-center justify-center text-center text-black font-Open">
+              <div className="flex flex-col items-center justify-center text-center text-black font-Open">
                 <div className="w-20 h-20 bg-primary rounded-full flex items-center justify-center">
                   <AiOutlineClockCircle color="white" size={40} />
                 </div>
-                <p>24.00 WIB</p>
-              </div> */}
+                <p>13.00 WITA</p>
+              </div>
             </div>
           </div>
         </div>
@@ -80,7 +80,7 @@ const Event = () => {
           <div className="w-full h-full border-[8px] border-third bg-main bg-cover bg-top flex flex-col items-center justify-center p-3 rounded-3xl gap-2">
             <h1 className="font-Bree text-3xl text-third">LOKASI</h1>
             <Iframe
-              src="https://maps.google.com/maps?q=Jl. Poros Makassar - Pare Mandalle Utara Pangkep&t=&z=10&ie=UTF8&iwloc=&output=embed"
+              src="https://maps.google.com/maps?q=Jalan.%20Lanto%20Dg%20Pasewang%20Lr.1/7%20(Depan%20Abbana%20Cafe)&t=&z=13&ie=UTF8&iwloc=&output=embed"
               className="rounded-xl w-full h-96"
             />
           </div>
