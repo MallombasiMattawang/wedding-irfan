@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: (theme) => ({
-        main: "url('https://img.freepik.com/free-vector/tropical-leaves-background-zoom_52683-40995.jpg?w=1500&t=st=1667200527~exp=1667201127~hmac=65b5871de3308197b0630665146871d60133a35107bfe068e222c43bf44c0ad6')",
+        main: "url('https://img.freepik.com/free-photo/background-with-big-leaves-top_23-2147721636.jpg?w=1060&t=st=1676289051~exp=1676289651~hmac=c10a5fc1ad148f1142746b1c13017b9f963669f2b3683f244754599abe59d01a')",
       }),
       fontFamily: {
         shalimar: ["Shalimar", "handwriting"],

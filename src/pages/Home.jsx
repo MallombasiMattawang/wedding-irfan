@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 import { useTimer } from "reactjs-countdown-hook";
 
 const Home = () => {
-  const { seconds, minutes, hours, days } = useTimer('1400000', handleTimerFinish);
+  const { seconds, minutes, hours, days } = useTimer('1700000', handleTimerFinish);
 
   function handleTimerFinish() {
     alert("Waktunya Nikah!");
@@ -20,7 +20,7 @@ const Home = () => {
           </h1>
           <div className="bg-primary p-3 rounded-xl text-center">
           <h2 className="font-Poppins text-white text-center">
-            01 Maret 2023
+            04 Maret 2023
           </h2>
           </div>
           
