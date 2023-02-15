@@ -19,12 +19,12 @@ const Gift = () => {
       <Navbar />
       <div className="w-full min-h-screen bg-main bg-cover bg-center p-5 flex flex-col items-center justify-center">
         <div className="max-w-xl w-full bg-white border-[3px] border-third mx-auto rounded-xl flex flex-col items-center justify-center gap-6 p-2">
-          <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5WSNEo4yCjiHAIZacpGj-wUeuHkv2fKPRrpxj00s0Br_w2fvwq5O8TFVW3GI32YN2Hkw&usqp=CAU"
-            alt="Bank"
-            width={150}
-            height={150}
-          />
+          // <img
+          //   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5WSNEo4yCjiHAIZacpGj-wUeuHkv2fKPRrpxj00s0Br_w2fvwq5O8TFVW3GI32YN2Hkw&usqp=CAU"
+          //   alt="Bank"
+          //   width={150}
+          //   height={150}
+          // />
           <h1 className="text-orange-600">-</h1>
           <button
             className={`bg-third ${
