@@ -92,7 +92,7 @@ const Navbar = () => {
             className="transition-all duration-300"
           />
           <span className="text-xs font-Bree group-hover:text-slate-700 transition-all duration-300">
-            Gift
+            Thank you
           </span>
         </NavLink>
       </nav>
