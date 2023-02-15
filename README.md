@@ -1,6 +1,5 @@
 # UNDANGAN ONLINE
 
-Project ini referensi oleh Yandra Muslim  .
 
 ## `Teknologi`
 
