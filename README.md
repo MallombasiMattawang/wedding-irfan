@@ -10,13 +10,11 @@ Teknologi yang saya gunakan pada project ini yaitu:
 - Tailwindcss
 - firebase(firestore)
 
-## `Link and Resource`
 
-- Link Web: https://undangan-74771.web.app/Nama%20Kalian
-- Link Github: https://github.com/BURUH-CODING-NAIK-HAJI/undangan-online
-- resource: https://jvalleybootcamp.com/
 
 ### Bagaimana Cara Menjalankan Script Ini?
+
+npm install
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
