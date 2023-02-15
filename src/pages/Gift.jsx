@@ -25,7 +25,6 @@ const Gift = () => {
           //   width={150}
           //   height={150}
           // />
-          dsa
           <h1 className="text-orange-600">-</h1>
           <button
             className={`bg-third ${
