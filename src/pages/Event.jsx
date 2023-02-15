@@ -57,7 +57,7 @@ const Event = () => {
                text-center"
               >
                 <h2>Bertempat Di</h2>
-                <p>Jl. Lanto Dg Pasewang Lr.1/7, Bulukumba (Depan Abbana Cafe)</p>
+                <p>Kediaman Mempelai Pria, Jl. Lanto Dg Pasewang Lr.1/7, Bulukumba (Depan Abbana Cafe)</p>
               </div>
               <div className="flex flex-col items-center justify-center text-center text-black font-Open">
                 <div className="w-20 h-20 bg-primary rounded-full flex items-center justify-center">
