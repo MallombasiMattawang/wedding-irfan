@@ -20,6 +20,9 @@ const Gift = () => {
       <div className="w-full min-h-screen bg-main bg-cover bg-center p-5 flex flex-col items-center justify-center">
         <div className="max-w-xl w-full bg-white border-[3px] border-third mx-auto rounded-xl flex flex-col items-center justify-center gap-6 p-2">
           <p>Tidak ada lagi hal yang menggembirakan selain kehadiran Anda pada hari bahagia kami. Terimakasih atas doa dan harapan tulus pada kami,.</p>
+
+          <p></p>
+          <p>Tertanda kedua mempelai.</p>
         </div>
       </div>
     </>
