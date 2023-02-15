@@ -25,7 +25,7 @@ const Gift = () => {
             width={150}
             height={150}
           />
-          <h1 className="text-orange-600">No Rekening: 12345678910</h1>
+          <h1 className="text-orange-600">-</h1>
           <button
             className={`bg-third ${
               !copy && "bg-green-600 hover:bg-green-800"
